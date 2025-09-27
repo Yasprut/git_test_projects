@@ -1,4 +1,4 @@
-package gittestproject
+package main
 
 import "fmt"
 

@@ -7,3 +7,4 @@ func main() {
 }
 
 // что-то
+// fsafds
